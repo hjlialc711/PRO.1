@@ -1,0 +1,53 @@
+body{
+  margin:0;
+  background-color: mediumpurple;
+}
+a{
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  color:deepskyblue;
+}
+ol{
+  margin: 0px ;
+  padding: 0;
+  list-style: none;
+}
+li{
+margin: 0 0 0 ;
+padding: 0 0 0 ;
+border : 0;
+float: left;
+}
+
+
+#head{
+      background-color: lightsalmon;
+      color:white;
+      text-align: center;
+      margin: 0;
+      padding: 30px;
+}
+h1{
+  margin: 0;
+  font-size: 50px;
+}
+.right{
+  float: right;
+  color:
+}
+#back{
+  background-color: mediumpur;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: white;
+
+}
+#pic{
+    margin: 0px;
+    padding: 0px;
+
+}
+img{
+    border:5px solid steelblue;
+}
